@@ -7,7 +7,7 @@
 -This approach allows increased throughput and reduced transaction costs at the same time preserving Ethereum security.  
 
 # Things I learnt:
--How to read Cairo 1 code  
+-How to write Cairo 1 code  
 -How to read Starknet smart contracts  
 -How to interact with Starknet smart contracts using a browser wallet(ArgentX) and a block explorer(Starkcsan).  
 
