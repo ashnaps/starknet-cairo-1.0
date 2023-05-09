@@ -1,5 +1,5 @@
-# Cairo
--Cairo is a programming language mainly used by L2 blockchain such as starknet.  
+# Cairo 1.0
+-Cairo is a programming language mainly used by L2 blockchains such as starknet.  
 -Cairo is derived from rust.  
 -In blockchain solutions every single interaction between a user and a d-app is verified by all the participants, which is Compute-intensive.  
 -Instead of having all the participants of the network to verify all user interactions, only one node, called the prover, execute the programs and generate proofs that the computations were done correctly.  
