@@ -14,4 +14,6 @@
 Its a fun learning experience. Feel free to reach out to me regarding the excersises.  
 twitter: @ashnaa_02  
 
-# Earned cairo101 tokens for completing/submitting the execises
+# Earned cairo101 tokens for completing/submitting the execises  
+![cairopoints](https://github.com/ashnaps/starknet-cairo-1.0/assets/77959009/9e71e0fb-1f18-41bd-b20c-3a101b0fe920)
+
