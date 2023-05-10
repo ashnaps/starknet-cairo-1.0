@@ -6,10 +6,12 @@
 -These proofs are then verified by an Ethereum smart contracts.  
 -This approach allows increased throughput and reduced transaction costs at the same time preserving Ethereum security.  
 
-# Things I learnt:
+# Things I learned:
 -How to write Cairo 1 code  
 -How to read Starknet smart contracts  
 -How to interact with Starknet smart contracts using a browser wallet(ArgentX) and a block explorer(Starkcsan).  
 
 Its a fun learning experience. Feel free to reach out to me regarding the excersises.  
-twitter: @ashnaa_02
+twitter: @ashnaa_02  
+
+# Earned cairo101 tokens for completing/submitting the execises
